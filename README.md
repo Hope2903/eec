@@ -11,7 +11,7 @@
 
 
 
-
+_________________
 
 1. locations of earthquakes 
 2. boxplot of highway mileage for each different cylinder in mtcars
