@@ -1,4 +1,17 @@
 1. locations of earthquakes 
+2. highway mileage - different cylinder 
+3. word lengths 
+4. voting results 
+5. highway mileage versus city mileage
+6. percentage of words 
+7. CO2 uptake
+8. ecars data set
+9. scotland_births data set in the fosdata package.
+10. frogs data set in the fosdata package. 
+
+
+
+1. locations of earthquakes 
 2. boxplot of highway mileage for each different cylinder in mtcars
 3. word lengths 
 4. voting results - total number of votes - five charts 
