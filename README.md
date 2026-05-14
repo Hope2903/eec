@@ -11,6 +11,8 @@
 
 
 
+
+
 1. locations of earthquakes 
 2. boxplot of highway mileage for each different cylinder in mtcars
 3. word lengths 
